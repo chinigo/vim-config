@@ -19,6 +19,8 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'chriskempson/vim-tomorrow-theme'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'tpope/vim-fugitive'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 
 " Text objects
 Plugin 'kana/vim-textobj-user'
