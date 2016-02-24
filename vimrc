@@ -21,4 +21,5 @@ call vundle#end()                   " Finish registering plugins
 
 
 filetype plugin indent on           " Reenable after bootstrap
+runtime! init/**.vim                " Include other configs
 
