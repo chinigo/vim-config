@@ -15,7 +15,9 @@ call vundle#begin()                 " Start registering plugins
 Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
 
 "" Begin Vundle plugins
+Plugin 'airblade/vim-gitgutter'
 Plugin 'chriskempson/vim-tomorrow-theme'
+Plugin 'tpope/vim-fugitive'
 
 " Text objects
 Plugin 'kana/vim-textobj-user'
@@ -41,6 +43,7 @@ Plugin 'sheerun/vim-json'
 Plugin 'slim-template/vim-slim'
 Plugin 'stephpy/vim-yaml'
 Plugin 'tpope/vim-cucumber'
+Plugin 'tpope/vim-git'
 Plugin 'tpope/vim-haml'
 Plugin 'tpope/vim-markdown'
 Plugin 'vim-jp/vim-cpp'
