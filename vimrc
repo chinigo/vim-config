@@ -1,8 +1,3 @@
-"" Installation instructions:
-"
-" $ git submodule update --init
-" $ vim +PluginInstall +qall
-
 set nocompatible                    " Be iMproved
 filetype off                        " Disable during bootstrap
 set t_Co=256
