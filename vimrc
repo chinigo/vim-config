@@ -18,6 +18,7 @@ Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
 Plugin 'airblade/vim-gitgutter'
 Plugin 'chriskempson/vim-tomorrow-theme'
 Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'easymotion/vim-easymotion'
 Plugin 'tpope/vim-fugitive'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
