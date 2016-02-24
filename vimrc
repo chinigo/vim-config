@@ -17,6 +17,14 @@ Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
 "" Begin Vundle plugins
 Plugin 'chriskempson/vim-tomorrow-theme'
 
+" Text objects
+Plugin 'kana/vim-textobj-user'
+Plugin 'kana/vim-textobj-entire'
+Plugin 'kana/vim-textobj-indent'
+Plugin 'kana/vim-textobj-lastpat'
+Plugin 'kana/vim-textobj-line'
+Plugin 'thinca/vim-textobj-between'
+
 " Language definitions
 Plugin 'JulesWang/css.vim'
 Plugin 'StanAngeloff/php.vim'
