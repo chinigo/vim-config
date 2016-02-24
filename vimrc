@@ -16,6 +16,7 @@ Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
 
 "" Begin Vundle plugins
 Plugin 'airblade/vim-gitgutter'
+Plugin 'chrisbra/vim-diff-enhanced'
 Plugin 'chriskempson/vim-tomorrow-theme'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'easymotion/vim-easymotion'
