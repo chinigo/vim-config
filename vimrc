@@ -17,6 +17,7 @@ Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
 "" Begin Vundle plugins
 Plugin 'airblade/vim-gitgutter'
 Plugin 'chriskempson/vim-tomorrow-theme'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'tpope/vim-fugitive'
 
 " Text objects
