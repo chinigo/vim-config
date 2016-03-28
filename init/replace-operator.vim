@@ -1,6 +1,6 @@
-nmap R <Plug>ReplaceOperator
-vmap R <Plug>ReplaceOperator
-nmap RR 0R$
+nmap K <Plug>ReplaceOperator
+vmap K <Plug>ReplaceOperator
+nmap KK 0K$
 
 nmap X <Plug>ExchangeOperator
 vmap X <Plug>ExchangeOperator
