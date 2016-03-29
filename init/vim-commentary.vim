@@ -1,2 +1,2 @@
-nmap <Leader>/ m` gcc ``
-vmap <Leader>/ gc gv
+nmap <Leader>/ m`gcc``
+vmap <Leader>/ gcgv
