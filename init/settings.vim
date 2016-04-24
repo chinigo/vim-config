@@ -1,4 +1,4 @@
-colorscheme Tomorrow-Night
+silent! colorscheme Tomorrow-Night
 
 " Core behavior
 set hidden                          " Allow hidden, unsaved buffers
