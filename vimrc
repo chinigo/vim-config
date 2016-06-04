@@ -67,6 +67,8 @@ Plugin 'tpope/vim-endwise'
 Plugin 'vim-jp/vim-cpp'
 Plugin 'vim-perl/vim-perl'
 Plugin 'vim-ruby/vim-ruby'
+Plugin 'nelstrom/vim-textobj-rubyblock'
+Plugin 'jgdavey/vim-blockle'
 
 call vundle#end()                   " Finish registering plugins
 "" End Vundle
