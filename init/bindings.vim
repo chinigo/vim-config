@@ -33,3 +33,7 @@ nmap <silent> <expr> <Space> (&hls && v:hlsearch ? ':nohls' : ':set hls')."\n"
 
 " Search for word under cursor
 nmap <leader>a :Ag <cword><cr>
+
+" Tab manipulation
+nmap <silent> <C-t> :tabnew<CR>
+nmap <silent> <C-c> :close<CR>
