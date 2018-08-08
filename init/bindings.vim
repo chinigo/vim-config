@@ -37,3 +37,6 @@ nmap <leader>a :Ag <cword><cr>
 " Tab manipulation
 nmap <silent> <C-t> :tabnew<CR>
 nmap <silent> <C-c> :close<CR>
+
+" Replace operator
+map <silent> K <Plug>(operator-replace)
