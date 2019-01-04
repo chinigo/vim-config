@@ -4,6 +4,7 @@ silent! colorscheme Tomorrow-Night
 set hidden                          " Allow hidden, unsaved buffers
 set wildmode=list:longest           " Bash-like tab completion
 let g:netrw_dirhistmax=0            " Don't save netrw history
+let g:netrw_localrmdir="rm -r"      " Allow netrw to delete non-empty directories
 set notimeout                       " No command timeout
 set mouse=a                         " Enable mouse in terminal
 set showcmd                         " Show typed command prefixes while waiting for operator
