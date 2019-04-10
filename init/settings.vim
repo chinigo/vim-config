@@ -3,6 +3,7 @@ silent! colorscheme Tomorrow-Night
 " Core behavior
 set hidden                          " Allow hidden, unsaved buffers
 set wildmode=list:longest           " Bash-like tab completion
+set wildignore=*.pyc                " Hide certain files from directory listings and autocompletion
 let g:netrw_dirhistmax=0            " Don't save netrw history
 let g:netrw_localrmdir="rm -r"      " Allow netrw to delete non-empty directories
 set notimeout                       " No command timeout
