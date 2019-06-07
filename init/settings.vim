@@ -1,4 +1,4 @@
-silent! colorscheme Tomorrow-Night
+silent! colorscheme iceberg
 
 " Core behavior
 set hidden                          " Allow hidden, unsaved buffers

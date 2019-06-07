@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
 Plugin 'airblade/vim-gitgutter'
 Plugin 'chrisbra/vim-diff-enhanced'
 Plugin 'chriskempson/vim-tomorrow-theme'
+Plugin 'cocopon/iceberg.vim'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'godlygeek/tabular'

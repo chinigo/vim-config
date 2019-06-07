@@ -3,6 +3,6 @@ let g:airline_right_sep=''
 
 
 let g:airline_extensions=['ale', 'branch', 'ctrlp', 'quickfix']
-let g:airline_theme = 'powerlineish'
+let g:airline_theme = 'iceberg'
 let g:airline#extensions#ctrlp#show_adjacent_modes = 0
 let g:airline_section_y = ''
