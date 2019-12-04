@@ -40,3 +40,6 @@ nmap <silent> <C-c> :close<CR>
 
 " Replace operator
 map <silent> K <Plug>(operator-replace)
+
+" Disable <F1> for help (built-in, so you can't jsut use :unmap)
+nmap <F1> <nop>
