@@ -4,7 +4,7 @@ set t_Co=256
 
 
 "" Vundle
-set rtp+=~/.vim/bundle/Vundle.vim   " Set the runtime path to include Vundle
+set rtp+=$XDG_CONFIG_HOME/nvim/bundle/Vundle.vim   " Set the runtime path to include Vundle
 call vundle#begin()                 " Start registering plugins
 
 Plugin 'VundleVim/Vundle.vim'       " Let Vundle manage Vundle, required
