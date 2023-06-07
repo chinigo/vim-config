@@ -1,8 +1,8 @@
+" Need to eval to get string concatenation
+exe 'set rtp+=' .. stdpath('config') .. "/bundle/Vundle.vim"
+
 filetype off                                         " Disable during bootstrap, required
-
-set rtp+=$XDG_CONFIG_HOME/nvim/bundle/Vundle.vim     " Set the runtime path to include Vundle
-call vundle#begin($XDG_CONFIG_HOME . "/nvim/bundle") " Start registering plugins
-
+call vundle#begin(stdpath('config') .. "/bundle")    " Start registering plugins
 Plugin 'VundleVim/Vundle.vim'                        " Let Vundle manage Vundle, required
 
 Plugin 'airblade/vim-gitgutter'
